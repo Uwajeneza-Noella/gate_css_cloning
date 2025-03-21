@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 20px;
-    background-color: #2b35fd;
+    background-color: #1e1e3c;
     color: #fff;
 }
 .navlink{
@@ -16,14 +16,85 @@
 .navlink li a{
     text-decoration: none;
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
 }
 .navlink a:hover{
     color: #f8f7f7da;
-    background-color: rgb(67, 97, 250);
+    background-color: rgb(35, 37, 47);
     padding: 5px;
 }
 .logo{
-    font-size: 30px;
+    font-size: 15px;
     font-weight: bold;
+}
+.background {
+    width: 100%;
+    height: 50%;  /* Set height as needed */
+    background-image: url(feature-bg-1600.jpg);
+   
+
+}
+
+.innerhead{
+
+display: flex;
+justify-content: space-between;
+margin-left:px;
+
+} 
+
+.mentext{
+  
+    color: rgb(49, 55, 102); 
+    font-weight: bold; 
+    font-size: 38px;
+    padding: 20px 0px 0px 20px;
+}
+
+.universite{
+    color: rgb(128, 125, 121);
+    padding: 20px 0px 0px 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.menpc{
+
+width: 100px;
+height: 150px;
+ margin-right: 58%;
+padding: 65px 0px 0px 20px; 
+
+
+}
+
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background-color: #f0f0fa;
+    color: #fff;
+    width: 50%;
+    margin-left: 40%;
+    height: 20%;
+    margin-top: -15px;
+}
+.navlink1{
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navlink1 li a{
+    text-decoration: none;
+    color: #6c6868;
+    font-size: 15px;
+}
+.navlink1 a:hover{
+    color: #f8f7f7da;
+    background-color: rgb(35, 37, 47);
+    padding: 5px;
 }
