@@ -273,7 +273,7 @@ border: none;
     .first1:hover{
 cursor: pointer;
 color: white;
-font-size: 50px;
+font-size: 30px;
 background-color: rgb(79, 110, 196);
 
     } 
@@ -290,7 +290,7 @@ border: none;
     .first2:hover{
 cursor: pointer;
 color: white;
-font-size: 50px;
+font-size: 30px;
 background-color: rgb(79, 110, 196);
 
     } 
@@ -311,7 +311,7 @@ border: none;
     .first3:hover{
 cursor: pointer;
 color: white;
-font-size: 50px;
+font-size: 30px;
 background-color: rgb(79, 110, 196);
 
     } 
