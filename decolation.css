@@ -514,3 +514,41 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 
+.social{
+       display: flex;
+        justify-content: space-between;
+
+}
+
+
+.book11{
+    background-color: #0C2340;
+}.book11 ul{
+    display: flex;
+    gap: 3rem;
+    color: white;
+    list-style: none;
+    padding: 3rem;
+    margin-left: 14rem;
+    
+}.book11 ul li:hover{
+    background-color:#143865;
+    padding:0.6rem;
+    border-radius:10px;
+
+}.noback{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+}.nobackcnt ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    list-style: none;
+    font-size:1.4rem;
+}.nobackcnt ul li:hover{
+    background-color: #E1E8F2;
+    padding: 6px;
+    border-radius: 10px;
+}
+
