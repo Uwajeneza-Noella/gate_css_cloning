@@ -244,6 +244,16 @@ font-family: 'Times New Roman', Times, serif;
 
 }
 
+.water6{
+
+    margin-top: -15px;
+    width:490px;
+     height:320px;
+     margin-right: -10px;
+     margin-top: 7rem
+
+}
+
 .scolarship5{
 
     font-size: 20px;
@@ -253,5 +263,146 @@ font-family: 'Times New Roman', Times, serif;
 
     .first1{
 
-        
+        font-weight: bold;
+color: white;
+font-size: 25px;
+border: none;
+
     }
+
+    .first1:hover{
+cursor: pointer;
+color: white;
+background-color: rgb(79, 110, 196);
+
+    } 
+
+    .first2{
+
+        font-weight: bold;
+color: white;
+font-size: 25px;
+border: none;
+
+    }
+
+    .first2:hover{
+cursor: pointer;
+color: white;
+background-color: rgb(79, 110, 196);
+
+    } 
+
+    a{
+        text-decoration: none;
+    }
+
+    .first3{
+
+        font-weight: bold;
+color: white;
+font-size: 25px;
+border: none;
+
+    }
+
+    .first3:hover{
+cursor: pointer;
+color: white;
+background-color: rgb(79, 110, 196);
+
+    } 
+
+.allstyle{
+
+    margin-left: 45px;
+}
+
+    .universite4{
+        margin-top: 20px;
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .opportunity4{
+        font-weight: bold;
+        font-size: 35px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .line4{
+
+        color: rgb(165, 177, 0); 
+        background-color: rgb(165, 177, 0); 
+        font-size: 5px;
+        width: 10%;
+        margin-top: -20px;
+        margin-left: -30px;
+        ;
+    }
+
+
+
+    .house1{
+
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .housetext{
+
+margin-left: 10px;
+
+
+    }
+
+    .house{
+margin-left: 20px;
+
+
+    }
+
+    .houseimage2{
+
+        font-weight: bold;
+color: white;
+font-size: 25px;
+border: none;
+
+    }
+
+    .houseimage2:hover{
+cursor: pointer;
+color: white;
+background-color: rgb(79, 110, 196);
+
+    } 
+
+    .housetext1{
+color: #b7aeae;
+        margin-top: 20px;
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      
+    }
+
+    .housetext2{
+font-size:25px ;
+
+
+    }
+    
+    .housetext{
+  
+        color: rgb(49, 55, 102); 
+        font-weight: bold; 
+        font-size: 40px;
+       width: 90rem;
+        background-color: aliceblue;
+       padding: 15px 10px 20px 250px;
+       margin-top: -50px;
+       
+    }
+    
+    
