@@ -343,12 +343,6 @@ background-color: rgb(79, 110, 196);
 
 
 
-    .house1{
-
-        display: flex;
-        justify-content: space-between;
-
-    }
 
     .housetext{
 
@@ -388,7 +382,8 @@ color: #b7aeae;
     }
 
     .housetext2{
-font-size:25px ;
+font-size:30px ;
+font-family: 'Times New Roman', Times, serif;
 
 
     }
@@ -398,11 +393,115 @@ font-size:25px ;
         color: rgb(49, 55, 102); 
         font-weight: bold; 
         font-size: 40px;
-       width: 90rem;
+       width: 29rem;
         background-color: aliceblue;
-       padding: 15px 10px 20px 250px;
-       margin-top: -50px;
-       
+       padding: 15px 10px 20px 400px;
+       margin-top: -23rem;
+       float: left;
+       margin-left: 22rem;
+
+    }
+
+.madam{
+
+    display: flex;
+    justify-content: space-between;
+}
+    
+.love1{
+  
+    color: rgb(49, 55, 102); 
+    font-weight: bold; 
+    font-size: 20px;
+    padding: 25px 20px 40px 40px;
+    width:300px;
+    height:100px;
+    
+}
+
+.amizingtext{
+
+ background-color: aliceblue; 
+    font-size: 20px;
+    width:300px;
+    height:170px;
+    margin-top:10rem;
+    margin-right: 5rem;
+}
+
+
+
+.amizingtext2{
+
+    background-color: aliceblue; 
+        font-size: 20px;
+        width:320px;
+        height:200px;
+        margin-top:10rem;
+        margin-left: 20px;
+        padding: 20px 1px 5px 40px;
     }
     
+.madam :hover{
+cursor: pointer;
+    background-color: aquamarine;
     
+}
+
+.love2{
+  
+    color: rgb(49, 55, 102); 
+    font-weight: bold; 
+    font-size: 20px;
+    padding: 25px 20px 40px 40px;
+    width:300px;
+    height:100px;
+    
+}
+
+.single{
+    background-color: rgb(246, 246, 247);
+    width: 22rem;
+    margin-left: 2rem;
+}
+.single:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+
+.children{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px 20px 60px;
+    gap: 55px;
+}
+
+.cat1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #9c9696;
+}
+
+.cat2{
+font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #474e79; 
+}
+
+.cat3{
+font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #9c9696;
+}
+
+.trytext{
+
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: blue;
+    width: 20rem;
+    padding: 30px 40px 30px 60px;
+
+}
