@@ -560,3 +560,30 @@ font-family: 'Times New Roman', Times, serif;
 
 
 }
+
+
+
+
+.fixed12 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 99.5%;
+    background-color: #333;  /*You can change the background color */
+    color: white; /* Text color */
+    padding: 10px 0; /* Padding for the header */
+    z-index: 1000; /* Ensure the header stays above other content */
+    text-align: center; /* Center the text in the header */
+    border-bottom: none;
+    margin-left: 0.2rem;
+  }
+  
+  /* Add some margin to the body to prevent content from being hidden behind the header */
+  body {
+    margin-top: 60px; /* Adjust based on the height of your header */
+  }
+  
+  /* Additional styling for the content to look good with the fixed header */
+  main {
+    padding: 20px;
+  }
